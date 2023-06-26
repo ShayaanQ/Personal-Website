@@ -137,7 +137,7 @@ nav ul li a:hover::after{
 }
 /*skills*/
 #skills{
-    padding: 120px 0;
+    padding: 100px 0;
 
 }
 .skills-list{
@@ -183,7 +183,7 @@ nav ul li a:hover::after{
 }
 /* projects */
 #portfolio{
-    padding: 120px 0;
+    padding: 100px 0;
     margin-bottom: 100px;
     
 }
