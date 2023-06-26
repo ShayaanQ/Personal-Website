@@ -396,3 +396,7 @@ nav .fa-solid{
 .btn.btn2:hover{
     background: darkcyan;
 }
+#phone-text a{
+    color: white;
+    text-decoration: none;
+}
