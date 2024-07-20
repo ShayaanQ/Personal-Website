@@ -400,3 +400,18 @@ nav .fa-solid{
     color: white;
     text-decoration: none;
 }
+.layer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center all items horizontally */
+}
+
+.link-container {
+    display: flex;
+    justify-content: center; /* Center the links horizontally */
+    gap: 10px; /* Optional: Add space between the links */
+}
+
+.link-left, .link-right {
+    margin: 5px;
+}
